@@ -1,4 +1,4 @@
-package basics;
+package Day_01;
 
 public class HelloWorld
 {
